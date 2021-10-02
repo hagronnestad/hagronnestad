@@ -4,7 +4,7 @@
 
 | Year | Name         | Repo                                                                             |
 |------|--------------|----------------------------------------------------------------------------------|
-| 2021 | OP Holgang   | [ctf-op-holmgang](https://github.com/hagronnestad/ctf-op-holmgang)               |
+| 2021 | OP Holmgang  | [ctf-op-holmgang](https://github.com/hagronnestad/ctf-op-holmgang)               |
 | 2021 | H@ctivityCon | [ctf-hacktivitycon-2021](https://github.com/hagronnestad/ctf-hacktivitycon-2021) |
 
 <!-- 
