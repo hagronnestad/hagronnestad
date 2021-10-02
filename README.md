@@ -2,9 +2,10 @@
 
 ## CTF Writeups
 
-| Year | Name       | Repo                                            |
-|------|------------|-------------------------------------------------|
-| 2021 | OP Holgang | https://github.com/hagronnestad/ctf-op-holmgang |
+| Year | Name         | Repo                                                            |
+|------|--------------|-----------------------------------------------------------------|
+| 2021 | OP Holgang   | ["ctf-op-holmgang"](hagronnestad/ctf-op-holmgang)               |
+| 2021 | H@ctivityCon | ["ctf-hacktivitycon-2021"](hagronnestad/ctf-hacktivitycon-2021) |
 
 <!-- 
 
