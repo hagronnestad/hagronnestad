@@ -1,4 +1,6 @@
-# Hello! 😃
+# Hi! I'm HAG and this is my GitHub profile! 👨‍💻
+
+
 
 ## CTF Writeups
 
@@ -7,10 +9,9 @@
 | 2021 | OP Holmgang  | [ctf-op-holmgang](https://github.com/hagronnestad/ctf-op-holmgang)               |
 | 2021 | H@ctivityCon | [ctf-hacktivitycon-2021](https://github.com/hagronnestad/ctf-hacktivitycon-2021) |
 
-<!-- 
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -33,5 +34,4 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
 </p>
-
 -->
