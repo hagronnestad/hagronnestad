@@ -8,7 +8,7 @@ Here are some of my interests in random order: `IoT`, `C# .NET`, `Xamarin`, `Inf
 
 ## CTF Writeups
 
-I like to participate in CTFs and here are some of my writeups from past ones. 🐱‍💻
+I like to participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) and here are some of my writeups from past ones. 🐱‍💻
 
 | Year | Name                          | Team | Repo                                                                             | Placement                             |
 |------|-------------------------------|------|----------------------------------------------------------------------------------|---------------------------------------|
