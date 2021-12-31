@@ -19,9 +19,9 @@ I like to participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag_(
 | 2021 | H@ctivityCon                  | hag  | [ctf-hacktivitycon-2021](https://github.com/hagronnestad/ctf-hacktivitycon-2021) | 210 / 2527                            |
 
 
-## Pinned Repositories
+## Pinned Repositories ⬇️
 
-Below you can find my pinned repositories of some of my hobby projects. Including a Commodore 64 emulator written in C# and an ESP8266 based IoT Dashboard for my Nissan Leaf. ⬇️
+Below you can find my pinned repositories of some of my hobby projects. Including a Commodore 64 emulator written in C# and an ESP8266 based IoT Dashboard for my Nissan Leaf.
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
