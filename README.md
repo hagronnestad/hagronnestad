@@ -10,12 +10,13 @@ Here are some of my interests in random order: `IoT`, `C# .NET`, `Xamarin`, `Inf
 
 I like to participate in CTFs and here are some of my writeups from past ones. 🐱‍💻
 
-| Year | Name         | Team | Repo                                                                                              | Placement  |
-|------|--------------|------|---------------------------------------------------------------------------------------------------|------------|
-| 2021 | River Security Xmas Challenge | hag  | [ctf-rsxc-2021](https://github.com/hagronnestad/ctf-rsxc-2021)                   |            |
-| 2021 | Equinor CTF                   | IK   | [ctf-equinor-21](https://github.com/hagronnestad/ctf-equinor-21)                 | 12 / 79    |
-| 2021 | OP Holmgang                   | IK   | [ctf-op-holmgang](https://github.com/hagronnestad/ctf-op-holmgang)               | 22 / 188   |
-| 2021 | H@ctivityCon                  | hag  | [ctf-hacktivitycon-2021](https://github.com/hagronnestad/ctf-hacktivitycon-2021) | 210 / 2527 |
+| Year | Name                          | Team | Repo                                                                             | Placement                             |
+|------|-------------------------------|------|----------------------------------------------------------------------------------|---------------------------------------|
+| 202x | TryHackMe                     | hag  | [ctf-thm-public](https://github.com/hagronnestad/ctf-thm-public)                 | [Top 1%](https://tryhackme.com/p/hag) |
+| 2021 | River Security Xmas Challenge | hag  | [ctf-rsxc-2021](https://github.com/hagronnestad/ctf-rsxc-2021)                   |                                       |
+| 2021 | Equinor CTF                   | IK   | [ctf-equinor-21](https://github.com/hagronnestad/ctf-equinor-21)                 | 12 / 79                               |
+| 2021 | OP Holmgang                   | IK   | [ctf-op-holmgang](https://github.com/hagronnestad/ctf-op-holmgang)               | 22 / 188                              |
+| 2021 | H@ctivityCon                  | hag  | [ctf-hacktivitycon-2021](https://github.com/hagronnestad/ctf-hacktivitycon-2021) | 210 / 2527                            |
 
 
 ## Pinned Repositories
