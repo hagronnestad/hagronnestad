@@ -1,8 +1,14 @@
-# Hi! I'm HAG and this is my GitHub profile! 👨‍💻
+## Hello! 😃
+
+My name is Hein Andre (`hag`), welcome to my profile!
+
+Here are some of my interests in random order: `IoT`, `C# .NET`, `Xamarin`, `InfoSec`, `PenTesting`, `CTFs`, `Micro Controllers`, `Embedded Programming`, `Electronics`, `Retro-computing`, `Linux`, `3D-printing`.
 
 
 
 ## CTF Writeups
+
+I like to participate in CTFs and here are some of my writeups from past ones. 🐱‍💻
 
 | Year | Name         | Team | Repo                                                                                              | Placement  |
 |------|--------------|------|---------------------------------------------------------------------------------------------------|------------|
@@ -11,6 +17,10 @@
 | 2021 | OP Holmgang                   | IK   | [ctf-op-holmgang](https://github.com/hagronnestad/ctf-op-holmgang)               | 22 / 188   |
 | 2021 | H@ctivityCon                  | hag  | [ctf-hacktivitycon-2021](https://github.com/hagronnestad/ctf-hacktivitycon-2021) | 210 / 2527 |
 
+
+## Pinned Repositories
+
+Below you can find my pinned repositories of some of my hobby projects. Including a Commodore 64 emulator written in C# and an ESP8266 based IoT Dashboard for my Nissan Leaf. ⬇️
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
