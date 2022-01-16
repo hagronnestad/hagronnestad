@@ -1,12 +1,11 @@
 ## Hello! 😃
 
-My name is Hein Andre (`hag`), welcome to my profile!
+My name is Hein Andre (`hag`), welcome to my GitHub page!
 
 Here are some of my interests in random order: `IoT`, `C# .NET`, `Xamarin`, `InfoSec`, `PenTesting`, `CTFs`, `Micro Controllers`, `Embedded Programming`, `Electronics`, `Retro-computing`, `Linux`, `3D-printing`, `Unity`, `Game Development`.
 
 
-
-## CTF Writeups
+## CTF Writeups 🐱‍💻✏️
 
 I like to participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) and here are some of my writeups from past ones. 🐱‍💻
 
@@ -17,6 +16,13 @@ I like to participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag_(
 | 2021 | Equinor CTF                   | IK   | [ctf-equinor-21](https://github.com/hagronnestad/ctf-equinor-21)                 | 12 / 79                               |
 | 2021 | OP Holmgang                   | IK   | [ctf-op-holmgang](https://github.com/hagronnestad/ctf-op-holmgang)               | 22 / 188                              |
 | 2021 | H@ctivityCon                  | hag  | [ctf-hacktivitycon-2021](https://github.com/hagronnestad/ctf-hacktivitycon-2021) | 210 / 2527                            |
+
+
+## My Commodore 64 Emulator 🕹️📺
+
+*Find this and more of my hobby projects in the pinned repositories below!*
+
+![](https://github.com/hagronnestad/retro-computing/blob/master/Screenshots/18-ui-updates-speed-control-improvements.png "")
 
 
 ## Pinned Repositories ⬇️
