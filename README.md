@@ -1,13 +1,13 @@
-## Hello! 😃
+## 👨🏻‍💻 Hello!
 
 My name is Hein Andre (`hag`), welcome to my GitHub page!
 
 Here are some of my interests in random order: `IoT`, `C# .NET`, `Xamarin`, `InfoSec`, `PenTesting`, `CTFs`, `Micro Controllers`, `Embedded Programming`, `Electronics`, `Retro-computing`, `Linux`, `3D-printing`, `Unity`, `Game Development`.
 
 
-## CTF Writeups 🐱‍💻✏️
+## 📝 CTF Writeups
 
-I like to participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) and here are some of my writeups from past ones. 🐱‍💻
+I like to participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) and here are some of my writeups from past ones.
 
 | Year | Name                          | Team | Repo                                                                             | Placement                             |
 |------|-------------------------------|------|----------------------------------------------------------------------------------|---------------------------------------|
@@ -18,7 +18,7 @@ I like to participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag_(
 | 2021 | H@ctivityCon                  | hag  | [ctf-hacktivitycon-2021](https://github.com/hagronnestad/ctf-hacktivitycon-2021) | 210 / 2527                            |
 
 
-## My Commodore 64 Emulator 🕹️📺
+## 📺 My Commodore 64 Emulator
 
 *Find this and more of my hobby projects in the pinned repositories below!*
 
