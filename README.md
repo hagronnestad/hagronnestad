@@ -22,7 +22,7 @@ I like to participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag_(
 
 *Find this and more of my hobby projects in the pinned repositories below!*
 
-![](https://github.com/hagronnestad/retro-computing/blob/master/Screenshots/18-ui-updates-speed-control-improvements.png)
+![](https://raw.githubusercontent.com/hagronnestad/retro-computing/master/Screenshots/18-ui-updates-speed-control-improvements.png)
 
 
 ## Pinned Repositories ⬇️
