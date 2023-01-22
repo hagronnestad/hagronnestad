@@ -19,16 +19,9 @@ I like to participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag_(
 -->
 
 
-## 📺 My Commodore 64 Emulator
-
-*Find this and more of my hobby projects in the pinned repositories below!*
-
-![](https://raw.githubusercontent.com/hagronnestad/retro-computing/master/Screenshots/18-ui-updates-speed-control-improvements.png)
-
-
 ## Pinned Repositories ⬇️
 
-Below you can find my pinned repositories of some of my hobby projects. Including a Commodore 64 emulator written in C# and an ESP8266 based IoT Dashboard for my Nissan Leaf.
+Below you can find my pinned repositories of some of my hobby projects. Including `Code Deck` - a cross platform alternative to the Stream Deck application. A Commodore 64 emulator written in C# and an ESP8266 based IoT Dashboard for my Nissan Leaf.
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
