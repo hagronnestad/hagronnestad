@@ -19,7 +19,7 @@ I like to participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag_(
 -->
 
 
-## Pinned Repositories ⬇️
+## ⬇️ Pinned Repositories
 
 Below you can find my pinned repositories of some of my hobby projects. Including `Code Deck` - a cross platform alternative to the Stream Deck application. A Commodore 64 emulator written in C# and an ESP8266 based IoT Dashboard for my Nissan Leaf.
 
